@@ -1,0 +1,90 @@
+{
+  "projectId": "site_f0c3ebc8-bbdf-44cd-944b-690707413f9a",
+  "gameName": "Ride A Pet",
+  "generatedAt": "2026-09-26T09:56:28.631Z",
+  "templateVersion": "game-seo-master-template-v1",
+  "readyForLaunch": false,
+  "filesGenerated": [
+    "content/generated/site.json",
+    "content/generated/home.json",
+    "content/generated/pages.json",
+    "CODEX_BRIEF.md",
+    "CODEX_HANDOFF_PROMPT.txt",
+    "GAME_FACT_PACK.json",
+    "SOURCE_PACK.json",
+    "CONTENT_PACK.json",
+    "GENERATION_AUDIT.json",
+    "THEME.json",
+    "SERP_BRIEF.json",
+    "QA_REPORT.json"
+  ],
+  "projectContextVersion": "mvp1-v3",
+  "codexHandoffPromptFile": "CODEX_HANDOFF_PROMPT.txt",
+  "contentMode": "deterministic",
+  "seoMode": "deterministic",
+  "factPackSource": "skipped",
+  "qaVersion": "v3.0",
+  "launchEligible": false,
+  "launchLabel": "blocked",
+  "hardFailCount": 3,
+  "warningCount": 11,
+  "buildReady": false,
+  "publishReady": false,
+  "projectStatus": "needs_repair",
+  "launchReasons": [
+    "production build did not pass",
+    "3 hard fail(s) remain",
+    "final QA did not pass",
+    "manual build uses skeleton content (edit offline before launch)"
+  ],
+  "audit": {
+    "contentMode": "deterministic",
+    "seoMode": "deterministic",
+    "factPackSource": "skipped",
+    "qaVersion": "v3.0",
+    "themeMode": "custom",
+    "buildMode": "manual"
+  },
+  "qa": {
+    "passed": false,
+    "errors": [
+      "Asset QA: missing logo file for /images/ride-a-pet-logo.svg",
+      "Asset QA: missing cover file for /images/ride-a-pet-cover.svg",
+      "Asset QA: missing favicon file for /images/ride-a-pet-logo.svg"
+    ],
+    "warnings": [
+      "manual soft: home: word count 348 is below minimum 1500",
+      "manual soft: wiki: word count 207 is below minimum 900",
+      "home: keyword density 0.069 is above target",
+      "wiki: keyword density 0.043 is above target",
+      "manual soft: home: word count 292 is below minimum 1500",
+      "manual soft: wiki: word count 158 is below minimum 900",
+      "home: duplicate paragraphs detected",
+      "wiki: duplicate paragraphs detected",
+      "manual soft: home: repeated content across sections (50%)",
+      "manual soft: wiki: repeated content across sections (50%)",
+      "manual soft: Content QA: repeated content across pages (19%)"
+    ],
+    "details": {
+      "assets": {
+        "passed": false,
+        "errors": [
+          "Asset QA: missing logo file for /images/ride-a-pet-logo.svg",
+          "Asset QA: missing cover file for /images/ride-a-pet-cover.svg",
+          "Asset QA: missing favicon file for /images/ride-a-pet-logo.svg"
+        ],
+        "warnings": []
+      },
+      "technical": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      },
+      "theme": {
+        "passed": true,
+        "errors": [],
+        "warnings": []
+      }
+    }
+  }
+}

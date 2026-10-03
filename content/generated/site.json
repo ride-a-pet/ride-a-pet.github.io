@@ -1,0 +1,76 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Ride A Pet Guide",
+  "shortName": "Ride A Pet",
+  "description": "Practical Ride A Pet Roblox guides for egg locations, rebirth progression, mutations, and current updates.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "220 16% 96%",
+      "foreground": "0 0% 7%",
+      "card": "220 6% 100%",
+      "card-foreground": "0 0% 7%",
+      "primary": "207 55% 41%",
+      "primary-foreground": "0 0% 100%",
+      "secondary": "220 16% 89%",
+      "muted": "220 16% 91%",
+      "muted-foreground": "0 0% 7%",
+      "border": "220 16% 80%",
+      "radius": ".35rem",
+      "card-shadow": "0 8px 18px rgba(15, 23, 42, .06)",
+      "hero-gradient": "linear-gradient(180deg, hsl(207 55% 41% / .08), transparent 70%)",
+      "background-pattern": "none",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "heading-weight": "700",
+      "heading-letter-spacing": "-0.02em"
+    },
+    "skin": "resource",
+    "headerStyle": "solid",
+    "componentStyle": "sharp",
+    "appearanceVersion": 2,
+    "appearanceMode": "fixed-template",
+    "templateVersion": 1,
+    "accentColorId": "default",
+    "colorMode": "custom",
+    "background": "#F4F5F7",
+    "accent": "#2F6FA3",
+    "fontId": "source-sans"
+  },
+  "hosting": {
+    "siteUrl": "https://ride-a-pet.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "contact": {
+    "email": "support@ride-a-pet.com",
+    "url": null
+  },
+  "repositoryUrl": null,
+  "allowedExternalDomains": [
+    "www.roblox.com",
+    "github.com"
+  ],
+  "assets": {
+    "logo": "/images/ride-a-pet-logo.webp",
+    "cover": "/images/ride-a-pet-cover.webp",
+    "openGraph": "/images/ride-a-pet-og.svg",
+    "favicon": "/images/ride-a-pet-logo.webp"
+  },
+  "game": {
+    "name": "Ride A Pet",
+    "platform": "Roblox",
+    "developer": "",
+    "genre": "",
+    "officialUrl": "https://www.roblox.com/games/124216119978534"
+  },
+  "seo": {
+    "titleTemplate": "%s",
+    "defaultKeywords": [
+      "Ride A Pet"
+    ]
+  }
+}

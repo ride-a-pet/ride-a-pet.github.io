@@ -1,0 +1,11 @@
+{
+  "gameName": "Ride A Pet",
+  "platform": "Roblox",
+  "reviewedAt": "2026-09-26",
+  "summary": "Ride A Pet is a Roblox experience about finding eggs around the map, hatching rarer and faster pets, and mutating pets to go faster.",
+  "coreMechanics": ["Find eggs around the map.", "Hatch rarer and faster pets.", "Mutate pets to go faster."],
+  "entities": ["Giant Tree", "Waterfall Cave", "Desert Pyramid", "Hidden Maze", "Black Hole Egg", "Cherub Egg", "Fox", "Rebirth", "Mutations"],
+  "facts": [{"claim": "The official experience describes finding eggs, hatching rarer and faster pets, and mutations as the core loop.", "sourceId": "roblox-experience"}, {"claim": "WHO'S THAT PET? was live on Roblox after 21:00 CST on 2026-09-26; the official event page lists the Sep 26–Oct 3 window and advertises x2 Cash Boost + More.", "sourceId": "roblox-whos-that-pet-event"}, {"claim": "Current independent guides consistently identify the Giant Tree, waterfall cave, cliffs, pyramid, and maze as rare-egg search landmarks.", "sourceId": "allthingshow-egg-map"}, {"claim": "The cross-checked seven rebirth requirements are Horse + $1M, Fox + $50M, Unicorn + $2.5B, Phoenix + $125B, Kitsune + $6.2T, Kitsune + $325T, and Dragon + $50Qa.", "sourceId": "allthingshow-rebirth"}, {"claim": "The five Weather Mutation multipliers are Shocked 2×, Volted 3×, Rage 4×, Void 10×, and Eternal 100×; the three Hatch Mutation multipliers are Gold 2×, Diamond 3×, and Rainbow 10×.", "sourceId": "pro-game-guides-mutations"}, {"claim": "One Hatch Mutation can coexist with one Weather Mutation; two Weather Mutations do not stack, and a stronger weather trait can replace a weaker one.", "sourceId": "pro-game-guides-mutations"}],
+  "unknowns": ["Exact egg odds and refresh timers.", "Fixed spawn counts or guaranteed points.", "Fox free-hatch odds and base stats.", "Exact field effects and calculation order for every mutation combination.", "Update 2's new pet or egg, reward conditions, and exact x2 Cash Boost scope and duration until confirmed in game or official notes."],
+  "sources": ["roblox-experience", "roblox-whos-that-pet-event", "allthingshow-egg-map", "allthingshow-rebirth", "pro-game-guides-mutations"]
+}

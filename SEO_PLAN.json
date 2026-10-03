@@ -1,0 +1,15 @@
+{
+  "siteName": "Ride A Pet Guide",
+  "domain": "https://ride-a-pet.github.io",
+  "rules": {"titleTargetMax": 60, "descriptionTargetMax": 160, "indexablePages": 8, "basePath": ""},
+  "pages": [
+    {"slug": "", "title": "Ride A Pet Roblox Guide: Eggs, Rebirth & Mutations", "h1": "Ride A Pet", "keyword": "ride a pet"},
+    {"slug": "ride-a-pet-egg-locations", "title": "Ride A Pet Egg Locations: Black Hole, Cherub & More", "h1": "Ride A Pet Egg Locations", "keyword": "ride a pet egg locations"},
+    {"slug": "ride-a-pet-black-hole-egg", "title": "Ride A Pet Black Hole Egg: Locations & Fast Route", "h1": "Ride A Pet Black Hole Egg", "keyword": "ride a pet black hole egg"},
+    {"slug": "ride-a-pet-locations", "title": "Ride A Pet Locations: Map Landmarks & Where to Go", "h1": "Ride A Pet Locations", "keyword": "ride a pet locations"},
+    {"slug": "ride-a-pet-rebirth-guide", "title": "Ride A Pet Rebirth Guide: Requirements & Progression", "h1": "Ride A Pet Rebirth Guide", "keyword": "ride a pet rebirth"},
+    {"slug": "ride-a-pet-fox", "title": "Ride A Pet Fox Guide: How to Get Fox for Rebirth 2", "h1": "Ride A Pet Fox Guide", "keyword": "fox ride a pet"},
+    {"slug": "ride-a-pet-mutations", "title": "Ride A Pet Mutations Guide: Types, Multipliers & How to Get", "h1": "Ride A Pet Mutations Guide", "keyword": "ride a pet mutations"},
+    {"slug": "ride-a-pet-update-2", "title": "Ride A Pet Update 2: Event Guide & Latest Changes", "h1": "Ride A Pet Update 2", "keyword": "ride a pet update 2"}
+  ]
+}

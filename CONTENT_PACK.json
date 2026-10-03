@@ -1,0 +1,7 @@
+{
+  "gameName": "Ride A Pet",
+  "updatedAt": "2026-09-26",
+  "runtimeContent": ["content/generated/home.json", "content/generated/pages.json"],
+  "pagePrinciples": ["Use current labels and the official experience for time-sensitive claims.", "Do not publish codes, odds, timers, pet stats, exact rebirth values, or patch notes without current confirmation.", "Use short contextual summaries and internal links instead of duplicating sibling pages."],
+  "launchSlugs": ["", "ride-a-pet-egg-locations", "ride-a-pet-black-hole-egg", "ride-a-pet-locations", "ride-a-pet-rebirth-guide", "ride-a-pet-fox", "ride-a-pet-mutations", "ride-a-pet-update-2"]
+}

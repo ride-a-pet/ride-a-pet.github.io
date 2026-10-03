@@ -1,0 +1,16 @@
+{
+  "gameName": "Ride A Pet",
+  "siteUrl": "https://ride-a-pet.github.io",
+  "launchPages": [
+    {"slug": "", "primaryKeyword": "ride a pet", "intent": "Guide hub"},
+    {"slug": "ride-a-pet-egg-locations", "primaryKeyword": "ride a pet egg locations", "intent": "Egg route"},
+    {"slug": "ride-a-pet-black-hole-egg", "primaryKeyword": "ride a pet black hole egg", "intent": "Targeted rare egg route"},
+    {"slug": "ride-a-pet-locations", "primaryKeyword": "ride a pet locations", "intent": "Map navigation"},
+    {"slug": "ride-a-pet-rebirth-guide", "primaryKeyword": "ride a pet rebirth", "intent": "Progression planning"},
+    {"slug": "ride-a-pet-fox", "primaryKeyword": "fox ride a pet", "intent": "Fox and Rebirth 2"},
+    {"slug": "ride-a-pet-mutations", "primaryKeyword": "ride a pet mutations", "intent": "Mutation mechanics"},
+    {"slug": "ride-a-pet-update-2", "primaryKeyword": "ride a pet update 2", "intent": "Current official update"}
+  ],
+  "deferred": ["Codes", "Tier List", "Beginner Guide", "Cherub Egg standalone page", "Solaris Egg standalone page", "Multilingual pages"],
+  "strategy": "One focused search intent per launch page. Header exposes five core routes; footer permanently exposes all seven child routes."
+}

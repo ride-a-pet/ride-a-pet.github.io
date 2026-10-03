@@ -1,0 +1,42 @@
+{
+  "passed": false,
+  "errors": [
+    "Asset QA: missing logo file for /images/ride-a-pet-logo.svg",
+    "Asset QA: missing cover file for /images/ride-a-pet-cover.svg",
+    "Asset QA: missing favicon file for /images/ride-a-pet-logo.svg"
+  ],
+  "warnings": [
+    "manual soft: home: word count 348 is below minimum 1500",
+    "manual soft: wiki: word count 207 is below minimum 900",
+    "home: keyword density 0.069 is above target",
+    "wiki: keyword density 0.043 is above target",
+    "manual soft: home: word count 292 is below minimum 1500",
+    "manual soft: wiki: word count 158 is below minimum 900",
+    "home: duplicate paragraphs detected",
+    "wiki: duplicate paragraphs detected",
+    "manual soft: home: repeated content across sections (50%)",
+    "manual soft: wiki: repeated content across sections (50%)",
+    "manual soft: Content QA: repeated content across pages (19%)"
+  ],
+  "details": {
+    "assets": {
+      "passed": false,
+      "errors": [
+        "Asset QA: missing logo file for /images/ride-a-pet-logo.svg",
+        "Asset QA: missing cover file for /images/ride-a-pet-cover.svg",
+        "Asset QA: missing favicon file for /images/ride-a-pet-logo.svg"
+      ],
+      "warnings": []
+    },
+    "technical": {
+      "passed": true,
+      "errors": [],
+      "warnings": []
+    },
+    "theme": {
+      "passed": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}
